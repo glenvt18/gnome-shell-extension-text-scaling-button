@@ -1,0 +1,29 @@
+# Text scaling button. GNOME shell extension.
+# Copyright (C) 2022 glenvt18
+# This file is distributed under the same license as the 'Text scaling button'  package.
+# glenvt18@gmail.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Text scaling button. GNOME shell extension\n"
+"Report-Msgid-Bugs-To: glevt18@gmail.com\n"
+"POT-Creation-Date: 2022-06-03 21:19+0300\n"
+"PO-Revision-Date: 2022-05-11 03:30+0300\n"
+"Last-Translator: glenvt18@gmail.com\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: extension.js:39
+msgid "Text scaling button"
+msgstr "Кнопка масштабирования текста"
+
+#: extension.js:51 extension.js:59
+msgid "Laptop"
+msgstr "Ноутбук"
+
+#: extension.js:67
+msgid "Monitor"
+msgstr "Монитор"

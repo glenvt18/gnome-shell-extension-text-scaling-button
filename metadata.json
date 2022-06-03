@@ -1,0 +1,8 @@
+{
+  "name": "Text Scaling Button",
+  "description": "Change text scaling factor and apply some tweaks to cursor size, dock etc.",
+  "uuid": "textscalingbutton@glenvt18",
+  "shell-version": [
+    "42"
+  ]
+}
